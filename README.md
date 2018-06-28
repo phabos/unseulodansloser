@@ -2,6 +2,7 @@
 
 A looser is a loser who can't spell "loser".
 This is a twitter BOT whose goal is to re-tweet any tweet with ```#looser``` :p
+https://twitter.com/1SeulODansLoser
 
 # install
 
