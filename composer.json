@@ -1,0 +1,12 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^0.7.4",
+        "php-di/php-di": "^6.0",
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Main\\": "src/Main/"
+        }
+    }
+}
